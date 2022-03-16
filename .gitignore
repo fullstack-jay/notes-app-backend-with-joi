@@ -1,2 +1,5 @@
 node_modules
 src-versi-app-before-restructure-with-hapi-plugin
+notes-api-web-server.pem
+.env
+.prod.env
